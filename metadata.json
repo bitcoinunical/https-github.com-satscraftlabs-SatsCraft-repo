@@ -1,0 +1,5 @@
+{
+  "name": "SatsCraft",
+  "description": "An interactive, simulation-first Bitcoin learning environment focused on operational competence. Master the protocol through failure-driven labs, node operations, and security drills.",
+  "requestFramePermissions": []
+}
